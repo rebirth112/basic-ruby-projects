@@ -1,5 +1,5 @@
 prices = [17,3,6,9,15,8,6,1,10]
-prices = [0,0,0,0,0]
+#prices = [0,0,0,0,0]
 def stock_picker(stock_prices)
     #initiate all lists
     profit_list = []
